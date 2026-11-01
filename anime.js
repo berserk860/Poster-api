@@ -62,6 +62,94 @@ const anime = [
     ]
 },
     {
+title: "Ishura (Season 1)",
+
+language: "English",
+
+rating: 7.2,
+
+year: 2024,
+
+description: "In a world where the Demon King has fallen, powerful warriors known as Shura compete to prove who is the strongest. Each possesses extraordinary abilities, and their battles threaten to reshape the fate of the world.",
+
+posterUrl: "https://m.media-amazon.com/images/I/71bXlNt2UoL._AC_UF894,1000_QL80_.jpg",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=114622&type=dub"
+    },
+
+    {
+        episodeNumber: 2,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=114922&type=dub"
+    },
+
+    {
+        episodeNumber: 3,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=115807&type=dub"
+    },
+
+    {
+        episodeNumber: 4,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=117694&type=dub"
+    },
+
+    {
+        episodeNumber: 5,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=117727&type=dub"
+    },
+
+    {
+        episodeNumber: 6,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=119809&type=dub"
+    },
+
+    {
+        episodeNumber: 7,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=119992&type=dub"
+    },
+
+    {
+        episodeNumber: 8,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=120628&type=dub"
+    },
+
+    {
+        episodeNumber: 9,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=121485&type=dub"
+    },
+
+    {
+        episodeNumber: 10,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=121668&type=dub"
+    },
+
+    {
+        episodeNumber: 11,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=121824&type=dub"
+    },
+
+    {
+        episodeNumber: 12,
+
+        streamingUrl: "https://gogoanime.com.by/streaming.php?ep=122887&type=dub"
+    }
+]
+
+    },
+    {
 title: "Look Back",
 
 language: "hindi dub",
