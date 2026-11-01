@@ -62,6 +62,28 @@ const anime = [
     ]
 },
     {
+title: "Look Back",
+
+language: "hindi dub",
+
+rating: 6.1,
+
+year: 2024,
+
+description: "Fujino is a confident young artist who loves drawing manga for her school newspaper. When she discovers the extraordinary talent of her reclusive classmate Kyomoto, their shared passion for art brings them together. Their friendship and artistic journey lead to an emotional story about ambition, creativity, and the bonds between people.",
+
+posterUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGca0reSikUJYJqnGQRerMEaK9jxpM7LJmVNyB_BvJPMFYKV00AkGBmD4&s=10",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=look-back-19083?ep=128972&type=hd-1&category=dub"
+    }
+]
+
+    },
+    {
 title: "The Ramparts of Ice (Season 1)",
 
 language: "English",
