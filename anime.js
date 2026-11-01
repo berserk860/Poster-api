@@ -61,6 +61,262 @@ const anime = [
         }
     ]
 },
+    {
+title: "The Ramparts of Ice (Season 1)",
+
+language: "English",
+
+rating: 8.2,
+
+year: 2025,
+
+description: "Koyuki Hikawa struggles to connect with others and often keeps her emotions hidden behind a cold exterior. Her ordinary school life begins to change as she meets new people and gradually discovers friendship, romance, and the courage to open her heart.",
+
+posterUrl: "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-1"
+    },
+
+    {
+        episodeNumber: 2,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-2"
+    },
+
+    {
+        episodeNumber: 3,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-3"
+    },
+
+    {
+        episodeNumber: 4,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-4"
+    },
+
+    {
+        episodeNumber: 5,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-5"
+    },
+
+    {
+        episodeNumber: 6,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-6"
+    },
+
+    {
+        episodeNumber: 7,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-7"
+    },
+
+    {
+        episodeNumber: 8,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-8"
+    },
+
+    {
+        episodeNumber: 9,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-9"
+    },
+
+    {
+        episodeNumber: 10,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-10"
+    },
+
+    {
+        episodeNumber: 11,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-11"
+    },
+
+    {
+        episodeNumber: 12,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-12"
+    },
+
+    {
+        episodeNumber: 13,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-13"
+    },
+
+    {
+        episodeNumber: 14,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/1-14"
+    }
+]
+
+ },
+    {
+title: "The Ramparts of Ice (Season 2)",
+
+language: "English",
+
+rating: 8.4,
+
+year: 2026,
+
+description: "The story of Koyuki and her friends continues as they navigate the challenges of school life, friendship, and growing romantic feelings while learning more about themselves and each other.",
+
+posterUrl: "https://a.storyblok.com/f/178900/1080x1350/96f5b45f93/ramparts-of-ice-season-2-visual-english.png/m/filters:quality(95)format(webp)",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/2-1"
+    },
+
+    {
+        episodeNumber: 2,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/2-2"
+    },
+
+    {
+        episodeNumber: 3,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/2-3"
+    },
+
+    {
+        episodeNumber: 4,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/2-4"
+    },
+
+    {
+        episodeNumber: 5,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/2-5"
+    }
+]
+
+},
+ {
+title: "The Frontier Lord Begins with Zero Subjects",
+
+language: "hindi dub",
+
+rating: 7.8,
+
+year: 2026,
+
+description: "A young nobleman inherits a remote frontier territory with no subjects and almost no resources. Starting from nothing, he must develop his land, gather allies, and overcome challenges to build a thriving domain.",
+
+posterUrl: "https://image.tmdb.org/t/p/w500/vHTHQZy3JhgoVMkbXlOot5gOUzZ.jpg",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/296437/1-1"
+    },
+
+    {
+        episodeNumber: 2,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/296437/1-2"
+    },
+
+    {
+        episodeNumber: 3,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/296437/1-3"
+    },
+
+    {
+        episodeNumber: 4,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/296437/1-4"
+    },
+
+    {
+        episodeNumber: 5,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/296437/1-5"
+    },
+
+    {
+        episodeNumber: 6,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/296437/1-6"
+    },
+
+    {
+        episodeNumber: 7,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/296437/1-7"
+    }
+]
+
+    },
+    {
+title: "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+
+language: "hindi dub",
+
+rating: 9.2,
+
+year: 2025,
+
+description: "After being reborn for a second time, a once talentless sage gains extraordinary powers and sets out to prove his true potential. With knowledge from his past lives, he challenges the limits of magic and destiny.",
+
+posterUrl: "https://image.tmdb.org/t/p/w500/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/314554/1-1"
+    },
+
+    {
+        episodeNumber: 2,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/314554/1-2"
+    },
+
+    {
+        episodeNumber: 3,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/314554/1-3"
+    },
+
+    {
+        episodeNumber: 4,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/314554/1-4"
+    },
+
+    {
+        episodeNumber: 5,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/314554/1-5"
+    },
+
+    {
+        episodeNumber: 6,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/314554/1-6"
+    }
+]
+
+    },
 {
 title: "Case Closed",
 
@@ -811,6 +1067,117 @@ episodes: [
         episodeNumber: 123,
 
         streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6345&type=hd-1&category=dub"
+    }
+]
+
+},
+{
+title: "I Parry Everything",
+
+language: "English",
+
+rating: null,
+
+year: 2024,
+
+description: "Noor dreams of becoming an adventurer, but despite years of training, he only masters the seemingly useless skill of parrying. Unaware of his extraordinary potential, he sets out on a journey where his defensive ability becomes far more powerful than anyone imagined.",
+
+posterUrl: "https://image.tmdb.org/t/p/w500/nVmc8K5J7SGMlE6tA5lVzVzAzQ9.jpg",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-1"
+    },
+
+    {
+        episodeNumber: 2,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-2"
+    },
+
+    {
+        episodeNumber: 3,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-3"
+    },
+
+    {
+        episodeNumber: 4,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-4"
+    },
+
+    {
+        episodeNumber: 5,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-5"
+    },
+
+    {
+        episodeNumber: 6,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-6"
+    },
+
+    {
+        episodeNumber: 7,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-7"
+    },
+
+    {
+        episodeNumber: 8,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-8"
+    },
+
+    {
+        episodeNumber: 9,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-9"
+    },
+
+    {
+        episodeNumber: 10,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-10"
+    },
+
+    {
+        episodeNumber: 11,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-11"
+    },
+
+    {
+        episodeNumber: 12,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/238892/1-12"
+    }
+]
+
+},
+
+{
+title: "Firefly Wedding",
+
+language: "English",
+
+rating: 8.2,
+
+year: 2026,
+
+description: "Set in the Meiji era, Satoko Kirigaya is a noblewoman whose life takes an unexpected turn when she becomes the target of an assassin. To survive, she makes a desperate marriage proposal to Shinpei Goto, the very man sent to kill her. Their unusual relationship leads to a dangerous and emotional story of love and survival.",
+
+posterUrl: "https://image.tmdb.org/t/p/w500/5RZx7UPYDXlDtaaC7VZZKO4VcwZ.jpg",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/320909/1-1"
     }
 ]
 
@@ -9844,11 +10211,15 @@ episodes: [
 
         streamingUrl: "https://blakiteapi.xyz/embed/280042/2-1"
     },
-
     {
         episodeNumber: 2,
 
         streamingUrl: "https://blakiteapi.xyz/embed/280042/2-2"
+    },
+    {
+        episodeNumber: 3,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/280042/2-3"
     }
 ]
 
@@ -14988,7 +15359,12 @@ episodes: [
         episodeNumber: 14,
 
         streamingUrl: "https://blakiteapi.xyz/embed/270603/1-14"
-    }
+    },
+    {
+        episodeNumber: 15,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/270603/1-15"
+     }
 ]
 
 },
@@ -15848,6 +16224,11 @@ episodes: [
         episodeNumber: 9,
 
         streamingUrl: "https://blakiteapi.xyz/embed/285993/1-9"
+    },
+    {
+        episodeNumber: 10,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/285993/1-10"
     }
 ]
 
@@ -16744,6 +17125,30 @@ episodes: [
 ]
 
 },
+    
+{
+title: "The Iceblade Sorcerer Shall Rule the World (season 2)",
+
+language: "hindi dub",
+
+rating: 6.3,
+
+year: 2023,
+
+description: "Ray White enrolls at the prestigious Arnold Academy, where powerful magic users study and compete. As the first commoner to attend the school in years, Ray hides his identity as the legendary Iceblade Sorcerer while making friends and facing dangerous magical threats.",
+
+posterUrl: "https://image.tmdb.org/t/p/w500/u2KOdIKAr7XsZjbi6Ku8POnAcIu.jpg",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/200777/1-1"
+    }
+]
+    
+},
+    
 {
 title: "The Elusive Samurai",
 
