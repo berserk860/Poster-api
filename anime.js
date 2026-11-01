@@ -62,6 +62,94 @@ const anime = [
     ]
 },
 {
+title: "NORAGAMI",
+
+language: "hindi dub",
+
+rating: 7.9,
+
+year: 2014,
+
+description: "Yato is a minor god who dreams of having millions of followers. With no shrine or worshippers, he takes odd jobs for just five yen. His life changes when he meets Hiyori Iki, a girl who becomes caught between the human and spirit worlds.",
+
+posterUrl: "https://images.justwatch.com/poster/312192973/s718/noragami.jpg",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10015&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 2,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10016&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 3,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10017&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 4,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10018&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 5,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10019&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 6,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10020&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 7,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10021&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 8,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10022&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 9,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10023&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 10,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10024&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 11,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10025&type=hd-12&category=dub"
+    },
+
+    {
+        episodeNumber: 12,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=noragami-491?ep=10026&type=hd-12&category=dub"
+    }
+]
+ 
+},
+{
 title: "The Fragrant Flower Blooms with Dignity",
 
 language: "hindi dub",
