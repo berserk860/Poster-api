@@ -62,9 +62,763 @@ const anime = [
     ]
 },
 {
+title: "Case Closed",
+
+language: "dub",
+
+rating: 8.5,
+
+year: 1996,
+
+description: "Shinichi Kudo is a brilliant teenage detective who is transformed into a child after being poisoned by a mysterious criminal organization. Taking the name Conan Edogawa, he continues solving difficult cases while secretly searching for a way to regain his original body.",
+
+posterUrl: "https://m.media-amazon.com/images/M/MV5BNGNjMjVmODYtMGMzZi00MWUyLTk1ZDQtYzI2ZTk2MmYzYTZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+
+episodes: [
+    {
+        episodeNumber: 1,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6223&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 2,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6224&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 3,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6225&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 4,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6226&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 5,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6227&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 6,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6228&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 7,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6229&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 8,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6230&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 9,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6231&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 10,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6232&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 11,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6233&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 12,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6234&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 13,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6235&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 14,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6236&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 15,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6237&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 16,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6238&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 17,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6239&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 18,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6240&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 19,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6241&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 20,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6242&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 21,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6243&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 22,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6244&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 23,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6245&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 24,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6246&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 25,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6247&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 26,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6248&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 27,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6249&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 28,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6250&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 29,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6251&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 30,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6252&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 31,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6253&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 32,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6254&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 33,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6255&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 34,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6256&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 35,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6257&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 36,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6258&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 37,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6259&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 38,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6260&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 39,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6261&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 40,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6262&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 41,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6263&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 42,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6264&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 43,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6265&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 44,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6266&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 45,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6267&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 46,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6268&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 47,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6269&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 48,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6270&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 49,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6271&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 50,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6272&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 51,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6273&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 52,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6274&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 53,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6275&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 54,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6276&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 55,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6277&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 56,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6278&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 57,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6279&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 58,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6280&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 59,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6281&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 60,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6282&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 61,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6283&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 62,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6284&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 63,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6285&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 64,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6286&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 65,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6287&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 66,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6288&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 67,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6289&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 68,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6290&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 69,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6291&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 70,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6292&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 71,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6293&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 72,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6294&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 73,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6295&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 74,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6296&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 75,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6297&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 76,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6298&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 77,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6299&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 78,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6300&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 79,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6301&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 80,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6302&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 81,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6303&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 82,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6304&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 83,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6305&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 84,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6306&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 85,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6307&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 86,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6308&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 87,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6309&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 88,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6310&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 89,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6311&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 90,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6312&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 91,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6313&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 92,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6314&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 93,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6315&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 94,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6316&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 95,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6317&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 96,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6318&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 97,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6319&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 98,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6320&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 99,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6321&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 100,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6322&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 101,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6323&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 102,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6324&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 103,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6325&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 104,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6326&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 105,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6327&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 106,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6328&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 107,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6329&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 108,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6330&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 109,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6331&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 110,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6332&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 111,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6333&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 112,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6334&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 113,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6335&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 114,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6336&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 115,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6337&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 116,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6338&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 117,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6339&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 118,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6340&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 119,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6341&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 120,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6342&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 121,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6343&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 122,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6344&type=hd-1&category=dub"
+    },
+
+    {
+        episodeNumber: 123,
+
+        streamingUrl: "https://gogoanime.me.uk/newplayer.php?id=case-closed-323?ep=6345&type=hd-1&category=dub"
+    }
+]
+
+},
+{
 title: "NORAGAMI",
 
-language: "hindi dub",
+language: "dub",
 
 rating: 7.9,
 
@@ -246,7 +1000,7 @@ episodes: [
 {
 title: "One Piece",
 
-language: "hindi dub",
+language: "dub",
 
 rating: 9.0,
 
