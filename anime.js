@@ -9895,7 +9895,7 @@ episodes: [
 
 },
 {
-title: "Re:Zero - Starting Life in Another World Season 3 (Hindi Dubbed)",
+title: "Re:Zero - Starting Life in Another World (Season 3)",
 
 language: "hindi dub",
 
@@ -12376,7 +12376,7 @@ episodes: [
 
 },
 {
-title: "Re:Zero - Starting Life in Another World Season 1 (Hindi Dubbed)",
+title: "Re:Zero - Starting Life in Another World (Season 1)",
 
 language: "hindi dub",
 
@@ -12470,7 +12470,7 @@ episodes: [
 
 },
 {
-title: "Re:Zero - Starting Life in Another World Season 2 (Hindi Dubbed)",
+title: "Re:Zero - Starting Life in Another World (Season 2)",
 
 language: "hindi dub",
 
@@ -13985,17 +13985,18 @@ episodes: [
     {
         episodeNumber: 23,
 
-        streamingUrl: "https://blakiteapi.xyz/embed/195459/1-23"
-    },
+        streamingurl: "https://blakiteapi.xyz/embed/195459/1-23"
+  },
 
-    {
+  {
         episodeNumber: 24,
 
         streamingUrl: "https://blakiteapi.xyz/embed/195459/1-24"
-    }
+    },
 ]
 
 },
+
 {
 title: "Let This Grieving Soul Retire (Hindi Dubbed)",
 
