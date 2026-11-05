@@ -314,6 +314,11 @@ episodes: [
 
         streamingUrl: "https://blakiteapi.xyz/embed/283428/2-5"
     }
+    {
+        episodeNumber: 6,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/283428/2-6"
+    },
 ]
 
 },
@@ -371,6 +376,11 @@ episodes: [
         episodeNumber: 7,
 
         streamingUrl: "https://blakiteapi.xyz/embed/296437/1-7"
+    },
+    {
+        episodeNumber: 8,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/296437/1-8"
     }
 ]
 
@@ -8776,10 +8786,16 @@ episodes: [
         streamingUrl: "https://blakiteapi.xyz/embed/237150/3-4"
     },
 
+    
     {
         episodeNumber: 5,
 
         streamingUrl: "https://blakiteapi.xyz/embed/237150/3-5"
+    },
+    {
+        episodeNumber: 6,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/237150/3-6"
     }
 ]
 
@@ -12371,6 +12387,11 @@ episodes: [
         episodeNumber: 1,
 
         streamingUrl: "https://blakiteapi.xyz/embed/297903/1-1"
+    },
+    {
+        episodeNumber: 2,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/297903/1-2"
     }
 ]
 
@@ -15475,7 +15496,12 @@ episodes: [
         episodeNumber: 15,
 
         streamingUrl: "https://blakiteapi.xyz/embed/270603/1-15"
-     }
+     },
+    {
+        episodeNumber: 16,
+
+        streamingUrl: "https://blakiteapi.xyz/embed/270603/1-16"
+}
 ]
 
 },
@@ -18594,7 +18620,10 @@ episodes: [
         { episodeNumber: 2, streamingUrl: "https://blakiteapi.xyz/embed/296437/1-2" },
         { episodeNumber: 3, streamingUrl: "https://blakiteapi.xyz/embed/296437/1-3" },
         { episodeNumber: 4, streamingUrl: "https://blakiteapi.xyz/embed/296437/1-4" },
-        { episodeNumber: 5, streamingUrl: "https://blakiteapi.xyz/embed/296437/1-5" }
+        { episodeNumber: 5, streamingUrl: "https://blakiteapi.xyz/embed/296437/1-5" },
+        { episodeNumber: 6, streamingUrl: "https://blakiteapi.xyz/embed/296437/1-6" },
+        { episodeNumber: 7, streamingUrl: "https://blakiteapi.xyz/embed/296437/1-7" },
+        { episodeNumber: 8, streamingUrl: "https://blakiteapi.xyz/embed/296437/1-8" },
     ]
 },
 {
